@@ -8,7 +8,6 @@ public class playerAnt : MonoBehaviour
     public Rigidbody2D rb;
     public Animator animator;
 Vector2 moveInput;
-//comment to see changes being commited...
 
     [Header("Movement")]
     public float moveSpeed = 5f;
